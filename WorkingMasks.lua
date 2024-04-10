@@ -110,7 +110,7 @@ local MaskEfficiencyTable = {
     -- Insurgent - Black Ops Profession
     ["Insurgent.Hat_GasMaskInsurgent"] = 1.0,
     -- KATTAJ1 Military Pack
-    ["Military_MaskHelmet_GasMask-M80"] = 1.0,
+    ["Base.Military_MaskHelmet_GasMask-M80"] = 1.0,
 }
 
 
