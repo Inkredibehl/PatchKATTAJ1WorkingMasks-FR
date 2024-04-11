@@ -111,6 +111,22 @@ local MaskEfficiencyTable = {
     ["Insurgent.Hat_GasMaskInsurgent"] = 1.0,
     -- KATTAJ1 Military Pack
     ["Military_MaskHelmet_GasMask-M80"] = 1.0,
+    ["Military_FullHelmet_Vanguard-Black"] = 1.0,
+    ["Military_FullHelmet_Vanguard-Desert"] = 1.0,
+    ["Military_FullHelmet_Vanguard-Green"] = 1.0,
+    ["Military_FullHelmet_Vanguard-White"] = 1.0,
+    ["Military_Mask_Balaclava1-Black"] = 0.25,
+    ["Military_Mask_Balaclava1-Desert"] = 0.25,
+    ["Military_Mask_Balaclava1-Green"] = 0.25,
+    ["Military_Mask_Balaclava1-White"] = 0.25,
+    ["Military_Mask_Balaclava2-Black"] = 0.25,
+    ["Military_Mask_Balaclava2-Desert"] = 0.25,
+    ["Military_Mask_Balaclava2-Green"] = 0.25,
+    ["Military_Mask_Balaclava2-White"] = 0.25,
+    ["Military_Mask_BandanaMask-Black"] = 0.25,
+    ["Military_Mask_BandanaMask-Desert"] = 0.25,
+    ["Military_Mask_BandanaMask-Green"] = 0.25,
+    ["Military_Mask_BandanaMask-White"] = 0.25,
 }
 
 
